@@ -1,0 +1,21 @@
+{ 
+ "group": ["group","add","kick","promote"],
+ "owner": ["mode","setnamebot","setbiobot","addcmd","delcmd","listcmd"],
+ "media": ["sticker","swm","smeme","toimg"],
+ "random": ["alay","namaninja"],
+ "fun": ["suit","calculator","ping","speedtest","kapankah","bagaimanakah","apakah","gaycek","ceksange","bisakah","jalantikus","cekmati","darkjoke","meme","darkjoke2","rate"],
+ "stalker": ["lirik","ytstalk","githubstalk","igstalk","stalkff"],
+ "download": ["film","couple","emojimix","cerpen","play","tiktok","ytmp3","ytmp4","tomp3","tovn"],
+ "search": ["wikimedia","brainly","ssweb","caripesan","waifu","gimage","wallpaper","google","pinterest","nsfw","pentol"],
+  "game": ["ulartangga","kodekeras"],
+  "shor": ["tinyurl","tourl"],
+  "rdm": ["quotesanime"],
+  "arti": ["artimimpi","artinama","shio","jadian","jodohku"],
+  "msm": ["alquran","tafsirsurah","hadist"],
+  "tp": ["freefire","mobilelegnds"],
+  "tr": ["ebinary","dbinary","styletext"],
+  "as": ["asupan","cecan","asupanukhty","cecanjepan"],
+  "msc": ["confess","chat"],
+  "bw": ["detiknews","merdekanews"],
+  "mt": ["transformer","3dstone","neondevil","potter","grafiti"]
+}
