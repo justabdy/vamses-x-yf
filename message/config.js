@@ -12,17 +12,17 @@ global.raw = {
 
 
 // Nomor Owner
-global.ownerNumber = ["6289508503105@s.whatsapp.net"]
-global.owner = ["6289508503105","6285738639969","6285883359262","6285849261085"]
-global.ownerName = ["Vamses"]
+global.ownerNumber = ["6287789210430@s.whatsapp.net"]
+global.owner = ["6287789210430","6289508503105","6285738639969"]
+global.ownerName = ["abdy."]
 
 
 // Nama Bot
-global.botName = 'ᴄʜᴏɴɪx'
+global.botName = 'cry.'
 
 
 // EXIF
-global.packname = 'ᴠᴀᴍsᴇs'
+global.packname = 'cry.'
 global.author = 'ᴠᴀᴍsᴇs'
 
 
